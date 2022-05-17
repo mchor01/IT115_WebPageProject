@@ -1,2 +1,3 @@
 # IT115_WebPageProject
-Changes being made. 
+Changes being made.
+Adding newer changes.  
